@@ -1,0 +1,125 @@
+a{
+font-family: 'Libre Baskerville', serif;
+}
+.h2{
+    font-family: 'Libre Baskerville', serif;
+        font-size: 25px;
+        margin-top: 50px;
+        color: black;
+        padding-left: 20px;
+        padding-right: 20px;
+        padding-top: 20px;
+        padding-bottom: 20px;
+       
+        visibility: visible;
+        opacity: 1;
+        
+}
+
+#h2 {
+    font-family: 'Libre Baskerville', serif;
+    font-size: 25px;
+    margin-top: 100px;
+    color:black;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border:  2px;
+    border-radius: 50px;
+    background-color: #8c92ac;
+    visibility: visible;
+    opacity: 0.5;
+   
+}
+
+
+#image{
+    
+    background-color:black;
+    
+}
+ul{
+    font-family: 'Libre Baskerville', serif;
+}
+body {
+    /* background-image: url(https://cdn.pixabay.com/photo/2021/09/25/15/24/heart-6655212_640.png);*/
+    background-size: cover; 
+    background-image: url('images/p1.png');
+}
+.btn{
+    font-family: 'Libre Baskerville', serif;
+        font-size: 25px;
+        margin-top: 100px;
+        color: black;
+        padding-left: 20px;
+        padding-right: 20px;
+        padding-top: 20px;
+        padding-bottom: 20px;
+        border: 2px;
+        border-radius: 50px;
+        background-color: #8c92ac;
+        visibility: visible;
+        opacity: 0.5;
+}
+.btn:hover {
+
+    font-family: 'Libre Baskerville', serif;
+    font-size: 25px;
+    margin-top: 100px;
+    color: black;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+    padding-bottom: 200px;
+
+
+    visibility: visible;
+    opacity: 0.5;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+
+@media screen and (max-width: 595px){
+body {
+        background-image: url('images/p1.png');
+        
+       
+        background-repeat: none;
+        background-size: cover;
+    }
+}
+
+
+/* image.html code */
+#ih2 {
+    font-family: 'Libre Baskerville', serif;
+    font-size: 25px;
+    color: black;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border: 2px;
+    border-radius: 50px;
+    /* background-color: #8c92ac; */
+    visibility: visible;
+    opacity: 0.9;
+
+}
+.w3-content {
+    margin: auto;
+    width: 60%;
+   
+    padding: 10px;
+   
+    
+    
+}
+ .mySlides {
+    width:100%;
+    opacity: 0.9;
+    height: 50vh;
+ }
